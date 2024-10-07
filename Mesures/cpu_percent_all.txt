@@ -1,0 +1,19 @@
+0 BG Apps
+	Mean %CPU: 6,305
+	Peak %CPU: 36,375
+	
+2 BG Apps
+	Mean %CPU: 25,9337
+	Peak %CPU: 48,75
+
+4 BG Apps
+	Mean %CPU: 28,8212
+	Peak %CPU: 51
+	
+6 BG Apps
+	Mean %CPU: 32,3675
+	Peak %CPU: 53,375
+		
+8 BG Apps
+	Mean %CPU: 36,9688
+	Peak %CPU: 50,75
